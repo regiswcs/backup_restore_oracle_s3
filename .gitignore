@@ -1,0 +1,14 @@
+# Arquivo de configuração de ambiente - Contém segredos!
+.env
+
+# Arquivos de log gerados
+logs/
+
+# Pasta de backups temporários
+temp_backups/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
